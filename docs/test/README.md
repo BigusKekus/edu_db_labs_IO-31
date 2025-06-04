@@ -1,43 +1,40 @@
 # Тестування працездатності системи
 
-Проводилось за допомогою додатку POSTMAN
+Проводилось за допомогою додатку APIDOG
+
+## GET user
+
+![get_users](https://github.com/user-attachments/assets/a233e470-4a6f-4160-bbd7-58cc1e396e89)
 
 ## POST user
 
-![Screenshot_1559](https://github.com/user-attachments/assets/321cdb25-f57f-4320-883b-4a9d768e690e)
+![post_user](https://github.com/user-attachments/assets/3c011052-6ab3-4838-b43a-9022fe9587df)
 
-## PATCH user
+## GET user(new)
 
-![Screenshot_1560](https://github.com/user-attachments/assets/b49f5338-2f24-4ba8-a4d1-bae8b866c56b)
-
-## GET user by id
-
-![Screenshot_1561](https://github.com/user-attachments/assets/16bcc413-c58a-4ce5-9b76-fb67ab1eb9d8)
+![get_users_new](https://github.com/user-attachments/assets/55a01f90-70a9-488f-90c5-1703b216ea1a)
 
 ## DELETE user
 
-![Screenshot_1562](https://github.com/user-attachments/assets/00ff8d50-85c0-4b17-8afa-845369fbeaf5)
+![dell_users](https://github.com/user-attachments/assets/08cd6a97-40e3-4407-a934-13485c746498)
 
 ## GET users 
 
-![Screenshot_1563](https://github.com/user-attachments/assets/ff2f9e35-1314-4e02-82c6-220727150f31)
+![get_users_newest](https://github.com/user-attachments/assets/8ffce70d-2d4b-4d7d-be56-ecf62afabd35)
 
-## POST survey
+## Console
 
-![Screenshot_1564](https://github.com/user-attachments/assets/6ca55c55-e60c-411d-b4c5-ac1bd735659d)
+![console](https://github.com/user-attachments/assets/add402c7-7cf2-4feb-b088-400fa0486362)
 
-## PUT survey without authorized
+## all console
 
-![Screenshot_1565](https://github.com/user-attachments/assets/9dd7300d-6ab6-4b19-8f97-e8a71ed7e33c)
+![all_console](https://github.com/user-attachments/assets/d750068f-f5f7-4885-9833-e6d7c99c214e)
 
-## PUT survey
+## GET questions
 
-![Screenshot_1566](https://github.com/user-attachments/assets/484483e2-e259-433f-8057-513c19fa1b80)
+![get_questions](https://github.com/user-attachments/assets/5930244e-5c30-4eef-813c-740f205cfad9)
 
-## GET surveys
+## GET survey
 
-![Screenshot_1567](https://github.com/user-attachments/assets/c681327d-683a-4820-93cb-5898e8193708)
+![get_surveys](https://github.com/user-attachments/assets/610e9f2d-b588-4a43-8554-fa459960bcb7)
 
-## GET survey by id
-
-![Screenshot_1568](https://github.com/user-attachments/assets/8447b126-542e-441b-8712-76dddc6ac363)
